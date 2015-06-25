@@ -1,2 +1,2 @@
 # Warlock
-Warlock weak auras
+Warlock weakauras
